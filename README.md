@@ -1,4 +1,4 @@
-![euSouGlauco](src/main/resources/images/glauco.png)
+
 ## Oi, eu sou Glauco Luiz! :D
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/glaucolrc)](https://github.com/glaucolrc)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glaucolrc/)](https://www.linkedin.com/in/glaucolrc/)
